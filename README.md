@@ -1,1 +1,3 @@
-# Jokic-analysis-
+Nikola Jokic analysis is an analysis about Jokic himself. On how he has improved over the seasons. I used a linear graph to show how his points, assist, and rebounds have improved over the seaons, I used scatter plot to show case his efficenty when he plays longer on the court, and I used a bar graph to show case his points in scoring has increased. The data used was from basketball-reference.com. I cleaned up the data by looking at the shape of the dataset and the overall dataset. I dropped columns that made no sense to be in the data set. I got rid of columns that had redundant values. I changed award columns to number 0 and 1. 0 being he had no awards and 1 that he had awards. 
+
+
